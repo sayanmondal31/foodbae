@@ -143,13 +143,7 @@ whenPageChanges(int pageIndex){
             ]
           )
           
-          //  LinearGradient(
-          //   begin: Alignment.topRight,
-          //   end: Alignment.bottomLeft,
-          //   color: [
-          //     Theme.of(context).accentColor, Theme.of(context).primaryColor
-          //   ],
-          // ),
+        
         ),
         alignment: Alignment.center,
         child: Column(

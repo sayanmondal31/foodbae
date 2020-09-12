@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748445017700",
+    "firebase_url": "https://foodbae-59b9d.firebaseio.com",
+    "project_id": "foodbae-59b9d",
+    "storage_bucket": "foodbae-59b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748445017700:android:32af11106cdd6b02342171",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748445017700-didum8oqi6u2thtp88qsnu2jb9hvar1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "0120897bb5f3a32c5ee92df552a645fe99cea038"
+          }
+        },
+        {
+          "client_id": "748445017700-0drdl4agt3oj2ubaatcgjjfi73921p7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKmQgJpdqPFoUTKvfIUskwiThiKLJtG0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748445017700-0drdl4agt3oj2ubaatcgjjfi73921p7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -138,10 +138,18 @@ whenPageChanges(int pageIndex){
           gradient: LinearGradient(
             begin: Alignment.topRight,
             end: Alignment.bottomLeft,
-            colors: [
+            colors : [
               Theme.of(context).accentColor, Theme.of(context).primaryColor
-            ],
-          ),
+            ]
+          )
+          
+          //  LinearGradient(
+          //   begin: Alignment.topRight,
+          //   end: Alignment.bottomLeft,
+          //   color: [
+          //     Theme.of(context).accentColor, Theme.of(context).primaryColor
+          //   ],
+          // ),
         ),
         alignment: Alignment.center,
         child: Column(
